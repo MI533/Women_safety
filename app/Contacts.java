@@ -34,7 +34,7 @@ public class Contacts
 
     public String get_phone()
     {
-        return _phone;
+      
     }
 
 }
